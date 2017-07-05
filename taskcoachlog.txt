@@ -1,0 +1,24 @@
+============= Mon Apr 20 16:55:40 2015
+Traceback (most recent call last):
+  File "taskcoachlib\gui\mainwindow.pyo", line 289, in onClose
+  File "taskcoachlib\application\application.pyo", line 388, in quitApplication
+  File "wx\_core.pyo", line 14619, in __getattr__
+wx._core.PyDeadObjectError: The C++ part of the MainWindow object has been deleted, attribute access no longer allowed.
+============= Tue Jul 14 14:24:44 2015
+Traceback (most recent call last):
+  File "taskcoachlib\gui\mainwindow.pyo", line 289, in onClose
+  File "taskcoachlib\application\application.pyo", line 388, in quitApplication
+  File "wx\_core.pyo", line 14619, in __getattr__
+wx._core.PyDeadObjectError: The C++ part of the MainWindow object has been deleted, attribute access no longer allowed.
+============= Wed Mar 16 16:56:55 2016
+Traceback (most recent call last):
+  File "taskcoachlib\gui\mainwindow.pyo", line 289, in onClose
+  File "taskcoachlib\application\application.pyo", line 388, in quitApplication
+  File "wx\_core.pyo", line 14619, in __getattr__
+wx._core.PyDeadObjectError: The C++ part of the MainWindow object has been deleted, attribute access no longer allowed.
+============= Mon Jan 23 15:53:19 2017
+Traceback (most recent call last):
+  File "taskcoachlib\gui\mainwindow.pyo", line 289, in onClose
+  File "taskcoachlib\application\application.pyo", line 388, in quitApplication
+  File "wx\_core.pyo", line 14619, in __getattr__
+wx._core.PyDeadObjectError: The C++ part of the MainWindow object has been deleted, attribute access no longer allowed.
